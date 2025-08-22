@@ -6,7 +6,7 @@
 ```markdown
 # ⚙️ Backend for Organization-Level Live Chat Application
 
-This repository contains the **backend server** for the [Live Chat App Frontend](https://github.com/your-username/your-frontend-repo).  
+This repository contains the **backend server** for the [Live Chat App Frontend](https://github.com/Kirito1610/MessageFriend.git).  
 The backend is responsible for **authentication, Stream Chat integration, and token generation**.  
 
 ---
@@ -44,5 +44,4 @@ The backend is responsible for **authentication, Stream Chat integration, and to
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-backend-repo.git
-cd your-backend-repo
+git clone https://github.com/Kirito1610/LiveChAT.git
